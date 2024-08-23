@@ -1,6 +1,4 @@
 
-
-
 import React, { Component } from "react";
 import { Row } from "react-bootstrap";
 import MovieCard from "./MovieCard";
@@ -92,6 +90,4 @@ class MovieRow extends Component {
   }
 }
 
-export default MovieRow; 
-
-
+export default MovieRow;

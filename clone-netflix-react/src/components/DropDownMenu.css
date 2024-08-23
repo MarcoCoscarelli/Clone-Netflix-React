@@ -1,32 +1,32 @@
 /* Menu Dropdown */
 .dropdown-menu {
-  background-color: rgba(199, 203, 207, 0.9) !important; /* Colore di sfondo semi-trasparente */
-  border: none !important; /* Rimuovi il bordo del menu */
+  background-color: rgba(199, 203, 207, 0.9) !important; 
+  border: none !important; 
 }
 
-/* Elementi del Menu */
+
 .dropdown-item {
-  color: white; /* Colore del testo degli elementi del menu */
+  color: white; 
 }
 
 .dropdown-item:hover,
 .dropdown-item:focus {
-  background-color: rgba(73, 80, 87, 0.9) !important; /* Colore di sfondo semi-trasparente al passaggio del mouse */
-  color: #ffffff !important; /* Colore del testo al passaggio del mouse */
-  cursor: pointer; /* Mostra un puntatore a mano quando ci si passa sopra */
+  background-color: rgba(73, 80, 87, 0.9) !important; 
+  color: #ffffff !important; 
+  cursor: pointer; 
 }
 
 /* Pulsante del Dropdown */
 .dropdown-toggle {
-  background-color: #212529 !important;  /* Colore di sfondo del pulsante del dropdown */
-  color: white !important ; /* Colore del testo del pulsante del dropdown */
-  border-color: #ffffff !important; /* Colore del bordo del pulsante del dropdown */
+  background-color: #212529 !important;  
+  color: white !important ; 
+  border-color: #ffffff !important; 
 }
 
 .dropdown-toggle:hover,
 .dropdown-toggle:focus {
-  background-color: #343a40 !important; /* Colore di sfondo del pulsante del dropdown al passaggio del mouse */
-  color: #ffffff !important; /* Colore del testo del pulsante del dropdown al passaggio del mouse */
-  border-color: #ffffff !important; /* Colore del bordo del pulsante del dropdown al passaggio del mouse */
+  background-color: #343a40 !important; 
+  color: #ffffff !important; 
+  border-color: #ffffff !important; 
 }
 
