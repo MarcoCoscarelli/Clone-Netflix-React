@@ -1,0 +1,22 @@
+/* Stili per il menu delle notifiche */
+.dropdown-menu {
+  background-color: #343a40; 
+  border: none; 
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3); 
+}
+
+.dropdown-item {
+  color: white; 
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  background-color: #495057; 
+  color: #ffffff; 
+  cursor: pointer; 
+}
+
+.show {
+  display: block !important; 
+}
+
