@@ -53,3 +53,12 @@ git push origin feature/nome-della-tua-funzionalita
 Apri una pull request per revisionare le tue modifiche.
 Licenza
 Questo progetto è distribuito sotto la licenza MIT. Vedi il file LICENSE per maggiori dettagli.
+
+
+### Screenshot della Home Page
+![Home Page]
+[ https://github.com/MarcoCoscarelli/Clone-netflix-react/blob/main/clone-netflix-react/Screenshot/Screenshot%202024-08-23%20174134.png)
+https://github.com/MarcoCoscarelli/Clone-netflix-react/blob/main/clone-netflix-react/Screenshot/Screenshot%202024-08-23%20174145.png
+https://github.com/MarcoCoscarelli/Clone-netflix-react/blob/main/clone-netflix-react/Screenshot/Screenshot%202024-08-23%20174158.png
+https://github.com/MarcoCoscarelli/Clone-netflix-react/blob/main/clone-netflix-react/Screenshot/Screenshot%202024-08-23%20174213.png ]
+
